@@ -27,7 +27,7 @@ public class Main{
 		}else if(x == 5){
 			fatos.fato5();
 		}else {
-			System.out.println("Opeção inválida");
+			System.out.println("Opção inválida");
 		}
 		scanner.close();
 	}
